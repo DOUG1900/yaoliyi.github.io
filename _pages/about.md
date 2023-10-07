@@ -21,37 +21,41 @@ I'm Liyi Yao 姚理议, a currently attending M.S. student at Thomas Lord Depart
 
 My research focuses on deep learning, including object detection, anomaly detection, language modeling, etc. And I'm also interested in robotics and reinforcement learning as well. I'm now searching a Ph.D. position in Fall 2024. More information about me is in my [CV](https://doug1900.github.io/yaoliyi.github.io/docs/resume.pdf)
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📖 Educations
+- *2023.01 - 2024.05 (now)*, Master of Computer Science, University of Southern California, Los Angeles, CA.
+- *2018.09 - 2022.06*, Bachelor of Engineering in Computer Science and Technology, Sichuan University, Chengdu, China.
 
-# 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+# 🔥 Recent News
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.03*: &nbsp;🎉I join DeepUSC research group as a research intern.
+
+# 📝 Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SPAC 2021</div><img src='images/defect_review.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Defect Detection in High-Speed Railway Overhead Contact System: Importance, Challenges, and Methods](https://ieeexplore.ieee.org/abstract/document/9539958)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Liyi Yao**, Jianhui Qiu, Shaobing Gao, *et al.* 2021 International Conference on Security, Pattern Analysis, and Cybernetics (SPAC 2021), Chengdu, 2021
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- A survey on defect detection in High-Speed Railway Overhead Contact System.
+- Analyze the main challenges, including data imbalance, pattern diversity and difficulties in deployment.
+- Summarize related works, including classic image processing methods and deep learning-based methods. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Defect Detection in High-Speed Railway Overhead Contact System: Importance, Challenges, and Methods](https://ieeexplore.ieee.org/abstract/document/9539958)
+
+**Liyi Yao**, Jianhui Qiu, Shaobing Gao, *et al.* 2021 International Conference on Security, Pattern Analysis, and Cybernetics (SPAC 2021), Chengdu, 2021
+
+- [An FPGA Based Adaptive Real-Time Enhancement System for Dental X-rays](https://ieeexplore.ieee.org/abstract/document/9674312)
+
+Haoyang Sang, Junsong Zhang, **Liyi Yao** *et al.* 2021 IEEE 4th International Conference on Electronics and Communication Engineering (ICECE), Xi'an, 2021
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
+# 💻 Work Experience
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
