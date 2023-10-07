@@ -44,13 +44,20 @@ My research focuses on deep learning, including object detection, anomaly detect
 </div>
 </div>
 
-- [Defect Detection in High-Speed Railway Overhead Contact System: Importance, Challenges, and Methods](https://ieeexplore.ieee.org/abstract/document/9539958)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SPAC 2021</div><img src='images/fpga.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-**Liyi Yao**, Jianhui Qiu, Shaobing Gao, *et al.* 2021 International Conference on Security, Pattern Analysis, and Cybernetics (SPAC 2021), Chengdu, 2021
-
-- [An FPGA Based Adaptive Real-Time Enhancement System for Dental X-rays](https://ieeexplore.ieee.org/abstract/document/9674312)
+[An FPGA Based Adaptive Real-Time Enhancement System for Dental X-rays](https://ieeexplore.ieee.org/abstract/document/9674312)
 
 Haoyang Sang, Junsong Zhang, **Liyi Yao** *et al.* 2021 IEEE 4th International Conference on Electronics and Communication Engineering (ICECE), Xi'an, 2021
+
+- A survey on defect detection in High-Speed Railway Overhead Contact System.
+- Analyze the main challenges, including data imbalance, pattern diversity and difficulties in deployment.
+- Summarize related works, including classic image processing methods and deep learning-based methods. 
+</div>
+</div>
+
+
 
 
 # 🎖 Honors and Awards
