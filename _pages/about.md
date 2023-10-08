@@ -19,7 +19,7 @@ redirect_from:
 
 I'm Liyi Yao 姚理议, a currently attending M.S. student at Thomas Lord Department of Computer Science, University of Southern California (USC). I graduated from Sichuan University (SCU), Chengdu, China and received  my B.S. degree in Computer Science. I'm now working as a research assistant in [DeepUSC](https://deep.usc.edu/). 
 
-My research focuses on deep learning, including object detection, anomaly detection, language modeling, etc. And I'm also interested in robotics and reinforcement learning as well. I'm now searching a Ph.D. position in Fall 2024. More information about me is in my [CV](https://doug1900.github.io/yaoliyi.github.io/docs/resume.pdf)
+My research focuses on deep learning, including object detection, anomaly detection, language modeling, etc. And I'm also interested in robotics and reinforcement learning as well. I'm now searching a Ph.D. position in Fall 2024. More information about me is in my [CV](https://doug1900.github.io/docs/resume.pdf)
 
 
 # 🔥 News
