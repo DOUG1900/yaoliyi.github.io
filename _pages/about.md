@@ -21,14 +21,17 @@ I'm Liyi Yao 姚理议, a currently attending M.S. student at Thomas Lord Depart
 
 My research focuses on deep learning, including object detection, anomaly detection, language modeling, etc. And I'm also interested in robotics and reinforcement learning as well. I'm now searching a Ph.D. position in Fall 2024. More information about me is in my [CV](https://doug1900.github.io/yaoliyi.github.io/docs/resume.pdf)
 
+# 🔥 News
+- *2022.06*: &nbsp;🎉Made a presentation at [Boehm CSSEAnnual Research Review 2023](https://boehmcsse.org/events-2/bcsse-annual-research-review/)
+- *2022.05*: &nbsp;🎉🎉Lost 50 pounds and becoming healthier!
+- *2023.03*: &nbsp;😀Joined DeepUSC research group as a research intern.
+- *2023.01*: &nbsp;✌️Started my M.S. program at University of Southern California.
+- *2022.06*: &nbsp;🎉Graduated from Sichuan University and received my B.S. degree in computer science.
+
 # 📖 Educations
 - *2023.01 - 2024.05 (now)*, Master of Computer Science, University of Southern California, Los Angeles, CA.
 - *2018.09 - 2022.06*, Bachelor of Engineering in Computer Science and Technology, Sichuan University, Chengdu, China.
 
-
-# 🔥 Recent News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2023.03*: &nbsp;🎉I join DeepUSC research group as a research intern.
 
 # 📝 Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SPAC 2021</div><img src='images/defect_review.png' alt="sym" width="100%"></div></div>
@@ -44,25 +47,25 @@ My research focuses on deep learning, including object detection, anomaly detect
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SPAC 2021</div><img src='images/fpga.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICECE 2021</div><img src='images/fpga.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [An FPGA Based Adaptive Real-Time Enhancement System for Dental X-rays](https://ieeexplore.ieee.org/abstract/document/9674312)
 
 Haoyang Sang, Junsong Zhang, **Liyi Yao** *et al.* 2021 IEEE 4th International Conference on Electronics and Communication Engineering (ICECE), Xi'an, 2021
 
-- A survey on defect detection in High-Speed Railway Overhead Contact System.
-- Analyze the main challenges, including data imbalance, pattern diversity and difficulties in deployment.
-- Summarize related works, including classic image processing methods and deep learning-based methods. 
+- A novel efficient adaptive image enhancement system based on FPGA for dental X-rays.
+- Propose a MLP-based no-reference image quality assessment.
+- Present an novel implementation of CLAHE, Fast CLAHE, which can significantly reduce the system latency.
 </div>
 </div>
 
-
+# 💻 Work Experience
+- *2023.03 - 2023.12 (now)* Research Intern [DeepUSC](https://deep.usc.edu/), Los Angeles, CA.
+- *2021.09 - 2021.12*, Perception Algorithm Intern [Pony.AI](https://www.pony.ai/?lang=en), Beijing, China.
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💻 Work Experience
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2021.10* First-Class Scholarship of Wuyuzhang Honor College 
+- *2020.10* Second-Class Scholarship of Wuyuzhang Honor College
+- *2019.10* Second-Class Scholarship of Wuyuzhang Honor College
