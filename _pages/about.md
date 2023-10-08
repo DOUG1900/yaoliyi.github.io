@@ -21,12 +21,14 @@ I'm Liyi Yao 姚理议, a currently attending M.S. student at Thomas Lord Depart
 
 My research focuses on deep learning, including object detection, anomaly detection, language modeling, etc. And I'm also interested in robotics and reinforcement learning as well. I'm now searching a Ph.D. position in Fall 2024. More information about me is in my [CV](https://doug1900.github.io/yaoliyi.github.io/docs/resume.pdf)
 
+
 # 🔥 News
-- *2022.06*: &nbsp;🎉Made a presentation at [Boehm CSSEAnnual Research Review 2023](https://boehmcsse.org/events-2/bcsse-annual-research-review/)
+- *2022.06*: &nbsp;💬Made a presentation at [Boehm CSSEAnnual Research Review 2023](https://boehmcsse.org/events-2/bcsse-annual-research-review/)
 - *2022.05*: &nbsp;🎉🎉Lost 50 pounds and becoming healthier!
 - *2023.03*: &nbsp;😀Joined DeepUSC research group as a research intern.
 - *2023.01*: &nbsp;✌️Started my M.S. program at University of Southern California.
 - *2022.06*: &nbsp;🎉Graduated from Sichuan University and received my B.S. degree in computer science.
+
 
 # 📖 Educations
 - *2023.01 - 2024.05 (now)*, Master of Computer Science, University of Southern California, Los Angeles, CA.
@@ -60,9 +62,12 @@ Haoyang Sang, Junsong Zhang, **Liyi Yao** *et al.* 2021 IEEE 4th International C
 </div>
 </div>
 
+
 # 💻 Work Experience
 - *2023.03 - 2023.12 (now)* Research Intern [DeepUSC](https://deep.usc.edu/), Los Angeles, CA.
 - *2021.09 - 2021.12*, Perception Algorithm Intern [Pony.AI](https://www.pony.ai/?lang=en), Beijing, China.
+- *2021.06 - 2021.08*, Summer Research Intern Zhejiang University, Online.
+- *2020.08 - 2022.06*, Research Assistant Sichaun University, Chengdu, China.
 
 
 # 🎖 Honors and Awards
