@@ -23,8 +23,8 @@ My research focuses on deep learning, including object detection, anomaly detect
 
 
 # 🔥 News
-- *2022.06*: &nbsp;💬 Oral presentation at [Boehm CSSEAnnual Research Review 2023](https://boehmcsse.org/events-2/bcsse-annual-research-review/)
-- *2022.05*: &nbsp;🎉🎉 Lost 50 pounds and becoming healthier!
+- *2023.06*: &nbsp;💬 Oral presentation at [Boehm CSSEAnnual Research Review 2023](https://boehmcsse.org/events-2/bcsse-annual-research-review/)
+- *2023.05*: &nbsp;🎉🎉 Lost 50 pounds and becoming healthier!
 - *2023.03*: &nbsp;😀 Joined DeepUSC research group as a research intern.
 - *2023.01*: &nbsp;✌️ Started my M.S. program at University of Southern California.
 - *2022.06*: &nbsp;🎉 Graduated from Sichuan University and received my B.S. degree in computer science.
