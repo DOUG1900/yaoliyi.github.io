@@ -17,15 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm Liyi Yao 姚理议, a currently attending M.S. student at Thomas Lord Department of Computer Science, University of Southern California (USC). I graduated from Sichuan University (SCU), Chengdu, China, and received my B.S. degree in Computer Science. I'm now working as a research assistant in [DeepUSC](https://deep.usc.edu/). 
-
-My research focuses on deep learning, including object detection, anomaly detection, language modeling, etc. And I'm also interested in robotics and reinforcement learning as well. I'm now searching for a Ph.D. position in Fall 2024. More information about me is in my [CV](./assets/cv.pdf)
+I'm Liyi Yao 姚理议, a currently attending M.S. student at Thomas Lord Department of Computer Science, University of Southern California (USC). I graduated from Sichuan University (SCU), Chengdu, China, and received my B.S. degree in Computer Science. My previous research and development experience focus on deep learning, including object detection, anomaly detection, language modeling, etc. I'm now looking for a job as a machine learning engineer. More information about me can be found in my [CV](./assets/cv.pdf)
 
 
 # 🔥 News
 - *2023.06*: &nbsp;💬 Oral presentation at [Boehm CSSEAnnual Research Review 2023](https://boehmcsse.org/events-2/bcsse-annual-research-review/)
 - *2023.05*: &nbsp;🎉🎉 Lost 50 pounds and becoming healthier!
-- *2023.03*: &nbsp;😀 Joined DeepUSC research group as a research intern.
+- *2023.03*: &nbsp;😀 Joined [DeepUSC](https://deep-usc.org/) research group as a research intern.
 - *2023.01*: &nbsp;✌️ Started my M.S. program at University of Southern California.
 - *2022.06*: &nbsp;🎉 Graduated from Sichuan University and received my B.S. degree in computer science.
 
