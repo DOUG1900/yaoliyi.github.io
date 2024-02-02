@@ -34,6 +34,18 @@ I'm Liyi Yao 姚理议, a currently attending M.S. student at Thomas Lord Depart
 
 
 # 📝 Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/defect_review.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Dual-Student Knowledge Distillation Networks for Unsupervised Anomaly Detection](https://arxiv.org/abs/2402.00448)
+
+**Liyi Yao**, Shaobing Gao, arXiv:2402.00448, 2024
+
+- Propose an anomaly detection model based on student-teacher networks for industrial inspection.
+- Set up two student networks with inverted structure, i.e. dual-student, to enhance the diversity of the representation of anomalous data.
+- Leverage feature embeddings and multi-scale feature matching to explore high-dimension semantic information.
+- Our proposed model performs well on three benchmark datasets.
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SPAC 2021</div><img src='images/defect_review.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
