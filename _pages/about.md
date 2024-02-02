@@ -34,7 +34,7 @@ I'm Liyi Yao 姚理议, a currently attending M.S. student at Thomas Lord Depart
 
 
 # 📝 Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/defect_review.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/dskd.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Dual-Student Knowledge Distillation Networks for Unsupervised Anomaly Detection](https://arxiv.org/abs/2402.00448)
