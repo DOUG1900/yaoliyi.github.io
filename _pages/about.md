@@ -29,7 +29,7 @@ I'm Liyi Yao 姚理议, a currently attending M.S. student at Thomas Lord Depart
 
 
 # 📖 Educations
-- *2023.01 - 2024.05 (now)*, Master of Computer Science, University of Southern California, Los Angeles, CA.
+- *2023.01 - now*, Master of Computer Science, University of Southern California, Los Angeles, CA.
 - *2018.09 - 2022.06*, Bachelor of Engineering in Computer Science and Technology, Sichuan University, Chengdu, China.
 
 
