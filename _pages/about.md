@@ -81,8 +81,3 @@ Haoyang Sang, Junsong Zhang, **Liyi Yao** *et al.* 2021 IEEE 4th International C
 - *2021.06 - 2021.08*, Summer Research Intern, Zhejiang University, Online.
 - *2020.08 - 2022.06*, Research Assistant, Sichuan University, Chengdu, China.
 
-
-# 🎖 Honors and Awards
-- *2021.10* First-Class Scholarship of Wuyuzhang Honor College 
-- *2020.10* Second-Class Scholarship of Wuyuzhang Honor College
-- *2019.10* Second-Class Scholarship of Wuyuzhang Honor College
