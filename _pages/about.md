@@ -21,6 +21,7 @@ I'm Liyi Yao 姚理议, a currently attending M.S. student at Thomas Lord Depart
 
 
 # 🔥 News
+- *2024.03* &nbsp;😀 Joined [USC Institute for Creative Technologies](https://ict.usc.edu/) as a student researcher.
 - *2023.06*: &nbsp;💬 Oral presentation at [Boehm CSSEAnnual Research Review 2023](https://boehmcsse.org/events-2/bcsse-annual-research-review/)
 - *2023.05*: &nbsp;🎉🎉 Lost 50 pounds and becoming healthier!
 - *2023.03*: &nbsp;😀 Joined [DeepUSC](https://deep-usc.org/) research group as a research intern.
