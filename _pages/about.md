@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm Liyi Yao 姚理议, a currently attending M.S. student at Thomas Lord Department of Computer Science, University of Southern California (USC). I graduated from Sichuan University (SCU), Chengdu, China, and received my B.S. degree in Computer Science. My previous research and development experience focus on deep learning, including object detection, anomaly detection, language modeling, etc. I'm now looking for a job as a machine learning engineer. More information about me can be found in my [CV](./assets/cv.pdf)
+I'm Liyi Yao 姚理议, a new Master graduate from University of Southern California in Computer Science. I graduated from Sichuan University (SCU), Chengdu, China, and received my B.S. degree in Computer Science. My previous development and research experience focus on deep learning, including object detection, anomaly detection, language modeling, etc. I'm now looking for a job as a machine learning engineer. More information about me can be found in my [CV](./assets/cv.pdf)
 
 
 # 🔥 News
