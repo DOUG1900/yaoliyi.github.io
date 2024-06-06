@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm Liyi Yao 姚理议, a new Master graduate from University of Southern California in Computer Science. I graduated from Sichuan University (SCU), Chengdu, China, and received my B.S. degree in Computer Science. My previous development and research experience focus on deep learning, including object detection, anomaly detection, language modeling, etc. I'm now looking for a job as a machine learning engineer. More information about me can be found in my [CV](./assets/cv.pdf)
+I'm Liyi Yao 姚理议, a new Master graduate from University of Southern California in Computer Science. I received my Bachelor degree in Computer Science from Sichuan University (SCU), Chengdu, China. My previous development and research experience focus on deep learning, including object detection, anomaly detection, language modeling, etc. I'm now looking for a job as a machine learning engineer. More information about me can be found in my [CV](./assets/cv.pdf)
 
 
 # 🔥 News
@@ -31,7 +31,7 @@ I'm Liyi Yao 姚理议, a new Master graduate from University of Southern Califo
 
 
 # 📖 Educations
-- *2023.01 - now*, Master of Computer Science, University of Southern California, Los Angeles, CA.
+- *2023.01 - 2024.05*, Master of Computer Science, University of Southern California, Los Angeles, CA.
 - *2018.09 - 2022.06*, Bachelor of Engineering in Computer Science and Technology, Sichuan University, Chengdu, China.
 
 
