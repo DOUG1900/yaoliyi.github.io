@@ -78,7 +78,7 @@ Haoyang Sang, Junsong Zhang, **Liyi Yao** *et al.* 2021 IEEE 4th International C
 
 
 # 💻 Work Experience
-- *2024.03 - now* Researcher, [USC Institute for Creative Technologies](https://ict.usc.edu/), Los Angeles, CA.
+- *2024.03 - 2024.05* Researcher, [USC Institute for Creative Technologies](https://ict.usc.edu/), Los Angeles, CA.
 - *2023.03 - 2023.12* Research Intern, [DeepUSC](https://deep.usc.edu/), Los Angeles, CA.
 - *2021.09 - 2021.12*, Software Development Intern, [Pony.AI](https://www.pony.ai/?lang=en), Beijing, China.
 - *2020.08 - 2022.06*, Research Assistant, Sichuan University, Chengdu, China.
